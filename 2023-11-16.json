@@ -1,0 +1,26 @@
+{
+  "name": "Andre Reed",
+  "age": 37,
+  "address": {
+    "street": "Buzbo Highway",
+    "city": "Anesondud",
+    "state": "SC",
+    "zip": "82712"
+  },
+  "contact": {
+    "phone": "(285) 920-1556",
+    "servicePhone": "800361563"
+  },
+  "birthday": "1971-01-04T07:48:20.117Z",
+  "ip": "141.251.5.14",
+  "foo": "bar",
+  "profile": {
+    "about": "Epapud egciges hadi ben lohho deunuva gagut ibu hem ibeocu kuzep jel tarcuz voose vifsafpuz osi faju. Avnuj led dolnom cehket sijosub citicih vatodopos cebepam ha oc do ceshi lula lohge bockowida po. Hos kodun urwahbo patgozje le por rum ra za gumragle uzovogwon mib.",
+    "bio": "Hu ilohagu cilmead coliica puveigo coji roecoul gi bovocac pimecke zonme editetu gunepaz nu puin sibolohig. Wof viblevoh fetrouv nel ko uljasac fo niweb laef za ana lu tujijot joc gogepu. Amori hilgevor mih rimsanaw ju dilroup bac vovabha madufti geucneb pojniwfif tu iz. Ihvu rofikogib zuor mewewoban fo riwsidke avuzecton sumi ozunit rir nalmum labrehi."
+  },
+  "apiKey": "b1e733e1c59128d97f8fcb73c5b875f87d5776858849b77922ebf645108b1270",
+  "currency": {
+    "code": "YER",
+    "name": "Yemen Rial"
+  }
+}
