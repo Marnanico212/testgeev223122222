@@ -1,0 +1,26 @@
+{
+  "name": "Lucy Jacobs",
+  "age": 40,
+  "address": {
+    "street": "Icki Manor",
+    "city": "Jacanro",
+    "state": "NM",
+    "zip": "74545"
+  },
+  "contact": {
+    "phone": "(957) 473-8863",
+    "servicePhone": "800894776"
+  },
+  "birthday": "1989-04-23T03:28:14.228Z",
+  "ip": "202.65.137.211",
+  "foo": "bar",
+  "profile": {
+    "about": "La gir bib witahule luefuib tebuvi doeheb singen ubuehi cur vat zobut. Umaowonop rabve ned hosum waska mov se he nuaca awfikzob uroseh cirdeeno ritge. Zujele vufpu pagikcu te kagha kup cijan damki nub ruca cufhuija otupe wobuwzi mugkuc ne eci. Lebavo medumase maslahid ja itaizu akwucsim ci tehiove ilhidsic tozeg demu sekica so raebuzu. Dushes ta biaflow amwoiz zufed zojob hudtic tipfapdav oreramku eduod gom jotde kuinu letunu jakatow. Zitpu duragu fodpivduv nuwe tokratug jewo dokif omucil egaop dejter se dobjoc vanso izepni.",
+    "bio": "Suzsevbaf osefini haw mer he tit tet rewfamvo ojjil je ragohiji noikumi il. Wew kaluh ijura dotaed ubloga jomezkad vat idve tawzu mizzub tutenduw vaf. Vuol ose wi pezdag akokuvi zavget hicot dod ecido hewunzi ka sepow okaosehi pe rapali."
+  },
+  "apiKey": "cbb67c2fe9766254f5aeba1adddb98f51ef05182a84fdadd2c81b47bf3a25569",
+  "currency": {
+    "code": "IDR",
+    "name": "Indonesia Rupiah"
+  }
+}
