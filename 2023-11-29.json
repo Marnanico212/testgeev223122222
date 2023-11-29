@@ -1,0 +1,26 @@
+{
+  "name": "Carl Snyder",
+  "age": 60,
+  "address": {
+    "street": "Ridez Park",
+    "city": "Noszase",
+    "state": "ND",
+    "zip": "52286"
+  },
+  "contact": {
+    "phone": "(483) 461-7670",
+    "servicePhone": "800271294"
+  },
+  "birthday": "1994-08-17T01:39:07.756Z",
+  "ip": "221.173.13.12",
+  "foo": "bar",
+  "profile": {
+    "about": "Pew amapuwnak fur dowjom sidtucib rume dev liwnesegu iru ca el juogevi sebop weosa vom vafawkol. Cik ve vig puhfepgu dunto ozjivhus edaganlu fukigiupa cusbe siigel zobat ohsisaw. Ram fuvejizu pidho jut zehjo wah feev ihdup nahmekib jide rormezdan fogpuw ci votju.",
+    "bio": "Atsela evwez luvhop po wogatbu he osotubi gizsunoz ubfej takoov foihupi vocezov ki haim. Bu iktoc nadbib ci war kumjolvec bokrafij elo wisvamla razisure hafni ireferkud epabe vetvicok. Kuc duszove pioni moholtiw jiganga cop na ve cimhaca ewu ruwimec figon rier ir. Vi ago agmoc mubebujik powmoazi furhic di iberedi cok kiso zo gi vev zug mimra vu ehupubne. Uvbut nun zi ogiezno uvu urcu gaeh nad ulogebil moculak sibkip sin api veagi."
+  },
+  "apiKey": "2176710c85e988fc5b8cfa12e7a3934d933c6a88aa9eee808ee7cb5367a895bc",
+  "currency": {
+    "code": "CVE",
+    "name": "Cape Verde Escudo"
+  }
+}
