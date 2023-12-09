@@ -1,0 +1,26 @@
+{
+  "name": "Jesse Bowen",
+  "age": 49,
+  "address": {
+    "street": "Fuvkan Road",
+    "city": "Munsefba",
+    "state": "OK",
+    "zip": "78260"
+  },
+  "contact": {
+    "phone": "(320) 957-5119",
+    "servicePhone": "800137136"
+  },
+  "birthday": "1983-01-26T08:59:56.969Z",
+  "ip": "32.89.20.33",
+  "foo": "bar",
+  "profile": {
+    "about": "Zaw mozomakal mo fog meehow isupo cah kisek sunade nur ga teac. Fepeh cizu ru do boniv hoegaazo agcod nal tehevkit wo nesbohnur curvo. Zucwaga isu an av wof fi vud su loohe do sa war wahukih zudo kugenlag lu ni notup.",
+    "bio": "To cacizibo nem jimhodap pulozpo zicmuw ura gu powcalcub mic ale ogo kepodka lutelu caponuw hu. Belaga sa kohuw ne cowsiwi uwiomagun iwfezoc cec cenna ci kujtafdov hohlaf. Somlelonu dehsier onu rak le ew urizi maj bahon do gazbor idesucnes ku joha. Ma jow ec epa la gakada dingivpi jago bamakuf kohutom zutathi obigej cu gu. Bovazaj hoskek ik uh ho ac si wos cavapram narvalki mane piz uputoni fejizaani kiuro zaz fal boh."
+  },
+  "apiKey": "e4ad3eaadf79cfbceee00c5784fada9ede951225c0f022d70399bac8250c9b08",
+  "currency": {
+    "code": "AFN",
+    "name": "Afghanistan Afghani"
+  }
+}
