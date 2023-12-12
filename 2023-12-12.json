@@ -1,0 +1,26 @@
+{
+  "name": "Tom Payne",
+  "age": 24,
+  "address": {
+    "street": "Vuho Square",
+    "city": "Ehpovu",
+    "state": "WI",
+    "zip": "06216"
+  },
+  "contact": {
+    "phone": "(886) 716-5951",
+    "servicePhone": "800767388"
+  },
+  "birthday": "1998-03-28T09:47:32.172Z",
+  "ip": "89.234.194.238",
+  "foo": "bar",
+  "profile": {
+    "about": "Ni pugigi jazmu gok faajama todduze zam fozfawe tavhalu uzu lub solu jugaz bojo ju foles. Itujel azu dodihaf ohejo jogcaz vawu jasonu jesi zigjob fede jujki ig waneroc zavofu ofo wo. Cehgeafu hevo ni iwapamri ci se ruwfica hop nojemom dim umoahso ed pop kafopek uzu emujahib koeni. Ep munbit ahuhighu ra alikih vobosuz dawabkop pova zohezuv ho diicepic bikuz.",
+    "bio": "Kup paffot niesoef da budkira eztela tojiza se ro rijgudep tasivmuk zadif noc wic nuktut emi lurpe waj. Inofe vowwil katbetri puztaf azaveg emce zujkemoj nawdiodo as kewgo zalki pumuk eta put dare tijoel ezju. Feniwu mujefgal ejilulu miruino guweliwel kuk uto dok fevhid secicap of lowadohe ve peb. Rev cijalof to wutuvno madwacvof kipvu ozelmi ef danvi pubta vuljabafe mumci ca cusvo fo jubuc."
+  },
+  "apiKey": "21f78f2096190c44191fb90584f57c7b1930f9ac057d13004c61e549f18d6e13",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
