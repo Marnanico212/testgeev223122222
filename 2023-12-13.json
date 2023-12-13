@@ -1,0 +1,26 @@
+{
+  "name": "Annie Snyder",
+  "age": 18,
+  "address": {
+    "street": "Enzaw Circle",
+    "city": "Kowihsa",
+    "state": "SD",
+    "zip": "65212"
+  },
+  "contact": {
+    "phone": "(751) 962-7458",
+    "servicePhone": "800393481"
+  },
+  "birthday": "1976-08-24T03:16:04.653Z",
+  "ip": "250.231.192.67",
+  "foo": "bar",
+  "profile": {
+    "about": "Ke ne lo wo taizla vub vudtuv vasivhe vauzeodu ko bihfu vukor perucilu humbet. Ib nin agoni kezonauc hu voilo zap jorasca gub bodve cewaiv wijukre. Retfagid wizuwa nerutfu keg lujazojem gesrupmu licaroazu copsi am cais zaw dudomis cal hefgu ediho sidu izcupese awtivta. Hetutec mof uvnupo filubfuz zino niwma kirut hozo eto dovu iduurufe ozegizu.",
+    "bio": "Zub od hu verrasmiv viglefidu juh tedkufli si wowkosik vedowvon fev dovijeso ibhaeka buz ula. Aj dibmop fa maloc gasab surgurit tow jow nunbegeh itra limo atu. Memi capos biv obwuteh co vig fabeju hes jazjo huk ce kowhof zet duola gokfal ve giv ehe. Rocbopa picseh lun ubgo lakogfag owwec wugifi ama piv ibe voune fime arne kucenun."
+  },
+  "apiKey": "67cb258fcba8a72c0d45541db5008874b678cc6e5166ea4cff0ec67a504d4a14",
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivia Boliviano"
+  }
+}
