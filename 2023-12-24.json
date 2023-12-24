@@ -1,0 +1,26 @@
+{
+  "name": "Luis Allen",
+  "age": 21,
+  "address": {
+    "street": "Cukgeh Avenue",
+    "city": "Zutufaw",
+    "state": "CO",
+    "zip": "98523"
+  },
+  "contact": {
+    "phone": "(419) 928-3290",
+    "servicePhone": "800991131"
+  },
+  "birthday": "1962-02-02T03:18:19.445Z",
+  "ip": "147.54.179.22",
+  "foo": "bar",
+  "profile": {
+    "about": "Rune evikeizi da kezaggo hef ko mopapahun nabigos vi riwahona da wigfo jij. Lohmogka kefuzo lonma nugi vucef jomwanmo cogco wal ga us litiwze zaupakul. Cegifekuh ideco bu pufran tu bufsufa be ib sawso ceiru wajevac cev keh genzimpu ci soomagec nubobrad.",
+    "bio": "Ibrew inagiun dufmogud jagece fipcad wamul jalbiulo ib beg pimupag vekuce dofbetpej ja. Pepicemi gecac mu nokja pujigo sumtugeg us diladwa hadkijkof digtezhe niwiw re sas. Wek de horoc bo jaw ep jomsindib wot cabusag koezu lalemik fezbabfu rutepo daw. Gi apait vek ago pemoj tiramotu vehep ob nejzat ikesocuc kenigok cuhguvzuf kag kaebzub elujo. Fo luvsihog dekiniza rekofma ko lato fuwren devike sebkalar ruoga gaaga zazvipreb urici te. Iwi cigev lu sonwe liwozul huwizmik zobrogjom odetu homewgi cankis caulasa uta di vipejaja ulumi potvovra rof weuwji. Tawem ido bol ijo akeskuv asi rav owvu ginim hene huj wamro jiktovke tecahok."
+  },
+  "apiKey": "31ccddda8d4889a0804e4148077d3fc7e0c3bda348304612f4a82e956d6c9d6f",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
