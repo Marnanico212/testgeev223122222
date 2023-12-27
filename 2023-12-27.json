@@ -1,0 +1,26 @@
+{
+  "name": "Mary Fuller",
+  "age": 29,
+  "address": {
+    "street": "Zuih Parkway",
+    "city": "Vanvemrer",
+    "state": "RI",
+    "zip": "77074"
+  },
+  "contact": {
+    "phone": "(422) 608-2696",
+    "servicePhone": "800747399"
+  },
+  "birthday": "1998-11-04T03:31:50.279Z",
+  "ip": "44.81.249.63",
+  "foo": "bar",
+  "profile": {
+    "about": "Teczerka mociw sertijfu ve kabarko jovala vefuwa mabwoidu ji ewavi toobuice mooluvil ah awjup dagjeb giduked. Ibu ucuzo ig nebmaf po tezud gev so rutjovij ob fe dahul oje li itec. Bujmek sumganib odafof colu nareso he kaz mif rokujco licafu rofvahih pud vodomu ce fatij tuzgir.",
+    "bio": "Izduvfap bajan vudajdif ocasaar bekpit pedu jeha zinhodtek lojjen rijuv kegoku cok onaheobi fi. Tuh cubi letog gi caagu uha ivusowvi jacavuzam kudvo hiov fo mewom jovjul ozorutu venep. Bajudemu na ofiroj egded kut beli devawohe vec logug tafcerer obwu jozcig ufu omgujpag."
+  },
+  "apiKey": "6f742c343ac788ef49dbb8276b062be585b87ea4b3bbfe7721685d9075add6e9",
+  "currency": {
+    "code": "MWK",
+    "name": "Malawi Kwacha"
+  }
+}
