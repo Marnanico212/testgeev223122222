@@ -1,0 +1,26 @@
+{
+  "name": "Janie Abbott",
+  "age": 18,
+  "address": {
+    "street": "Rorme Path",
+    "city": "Viippa",
+    "state": "NJ",
+    "zip": "59516"
+  },
+  "contact": {
+    "phone": "(348) 938-6188",
+    "servicePhone": "800554171"
+  },
+  "birthday": "1988-09-26T03:55:54.968Z",
+  "ip": "239.65.196.135",
+  "foo": "bar",
+  "profile": {
+    "about": "Na ebipowluv fudrus ku uhidoehu zepheala nubfo biepiup juje li ga difenu puvpuwowa buhjoiv woh. Benjeta jel cohumki kazutupe tom mava ga taka so uzo loketibu poro naamgo kuloal homdin abcuv. Sozacfic lac upuute covweva dab ukwovuki kafabija wigidrud jarij cadati oveku tiz. Iba fulmueje uco lu taw dal lipisobi seto rombaw ozlona de liped hav civuvne zudbuta kesta rizbagwo.",
+    "bio": "Abi biv utawuw hufoh fu ekakab sevpib favowza rakaz me robhit ukonowuh. Uzuvitzaj bud atuer coppahpab pukifa wohedu go zohju ewhat puc kekwechej kebwowo vaz tivaf. Fabfeja taolwa bephulep pih ged malawdat len fo vijaju vurois he bisuvpu."
+  },
+  "apiKey": "2e4ea0958a93492faa25b01f4e60c2fc1a75839a6ca5b8981151c3a3bf3811cc",
+  "currency": {
+    "code": "LSL",
+    "name": "Lesotho Loti"
+  }
+}
