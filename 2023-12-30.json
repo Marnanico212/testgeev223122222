@@ -1,0 +1,26 @@
+{
+  "name": "Edgar Vargas",
+  "age": 53,
+  "address": {
+    "street": "Soco River",
+    "city": "Bililulu",
+    "state": "CT",
+    "zip": "57828"
+  },
+  "contact": {
+    "phone": "(418) 964-3394",
+    "servicePhone": "800633677"
+  },
+  "birthday": "1976-07-18T04:35:42.567Z",
+  "ip": "157.4.34.0",
+  "foo": "bar",
+  "profile": {
+    "about": "Li oze co lukacha cen luvdaja pufemunaw tul mug fo cav ifioc lavra. Tegak epogitus eva givkuku vedka zisuh hu loc utcafi ki tatunomo abhut jereruh puzmol ce asorifki woromir. Kuj teliw az sev ikuni febube fugje ifafuet ojozih isbi fifajuz sursiwbi manec rad pub. Vil torkigup uj pi tenmuur wa lo sut guhvulij zeskurig goz juli juumpi. Utesvob gu opati mid boterji buw muwvonaho koce bal ola macjuce kumeh.",
+    "bio": "Elojeh od elkape cihpevuj ba bimo ev nefo vo mar ode zi. Oseluku mopnid ro basmitem levrabo igemac aripe dedzen jiehve penravfe ocier erofah afididi. Siab lupreg voj ehi perid pip cute va koswe ule gesrasdu foh lipozihuk. Erepa robofmi feguwov fadvos ren han kew tod go wesizkor isecibpob govuz owuko muzew uj do kud ano. Gozojef pozis islohzu sudbu perirebo ihzumi olizulgut cupa bal ivdo cujujo lajkofcik ja ukev ita. Pun detraloj zezroc nohli om mo ra vulcegfe unaaw laotalor mu turnawap lu hataiku no opoikumu icedub."
+  },
+  "apiKey": "7d79d15432e4d6090e510684e38036f1a027c26880e395edd0b5366cc8e39828",
+  "currency": {
+    "code": "SDG",
+    "name": "Sudan Pound"
+  }
+}
