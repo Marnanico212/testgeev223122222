@@ -1,0 +1,26 @@
+{
+  "name": "Fanny Doyle",
+  "age": 24,
+  "address": {
+    "street": "Wifde Park",
+    "city": "Weunoore",
+    "state": "KY",
+    "zip": "14081"
+  },
+  "contact": {
+    "phone": "(669) 470-9472",
+    "servicePhone": "800655879"
+  },
+  "birthday": "1975-10-25T01:03:48.597Z",
+  "ip": "113.114.207.244",
+  "foo": "bar",
+  "profile": {
+    "about": "Gah futiwcer inomfir imaki er simotni de miz evi ubevalak os eri rimut suz roje madobi. Sisew tepi sies mahe jad fifzuswe uza vafej egavepec geg li vaj. Vov omeahoot uvomece tav fovawje nefowi zeswe bun litare nohiwiicu fanzuuhu ak ceuj bugo jut kowni.",
+    "bio": "Oremifra kili nap vohugofa la lagaw otaap puvipur ku wacnisfah win ka set. Vakuv wa udlik wi daukenu ne ina hi irula vevujdel fizvi jakob tocko siza. Imzaez lanuc sernitef piwto jozidre bu dechoc vak socra fe huf arubuc pomewepa renizun bagmawana wajumi di. Bug ciseopo civolwe risricuw wokisezo wez ko vemmaes pagetap ejmora ifu ti."
+  },
+  "apiKey": "6666a96fa5a4d948279dec955ccfe036a4de44b80f6bebd67f3ccc64886488dc",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
