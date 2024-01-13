@@ -1,0 +1,26 @@
+{
+  "name": "Joshua Black",
+  "age": 20,
+  "address": {
+    "street": "Logaf Parkway",
+    "city": "Cebtega",
+    "state": "WV",
+    "zip": "55988"
+  },
+  "contact": {
+    "phone": "(753) 995-9426",
+    "servicePhone": "800136912"
+  },
+  "birthday": "1999-02-05T05:46:16.063Z",
+  "ip": "78.32.75.60",
+  "foo": "bar",
+  "profile": {
+    "about": "Gepkew cilahto nule dedhic pu gucufo naem fi gigej wehi lizocmo ceahedi huhasu jur. Didicki ridweb di tokojim losni focaf jonak mowizjo zosmu gojal beeto agonejwi ipoug zeiw guliv lu jouru lun. Nudavo zezeron pufsaz lep azari kij ute ik rem robu ereja ca su cocuv. Refa ovu on ane gafaji fejzun pog zetno led jezez luti zu ozafocfug gocvi taluju.",
+    "bio": "Sam nolon epone si rijdugku buc ep fabovi cih ako ebuh hiujhe zop. Nejagimof nivwe darali rindo dikovajan kevkomuz foc zofovahe kutnif uzzuwah gobmivad ci vah noronaf. Dendo mefablev op cijuja liavifi mogof huf fe gadol huatamic tan bu. Tolob pegpa tevose butgec ruzpo zem robgi sodepu ositifab jot adhitep saruage jupiso ulezaihu. Kukikgu kiv ra mililti ri sec afidu bipmuwut lezzic af op umeka momnagpoj et toj lefemgak abofopkun. Sabeju ale jinuwuag hadpejca dob hi oz musi ir wedujrir nowifbuv murpofew dutu jogih."
+  },
+  "apiKey": "47ed8f1cf67929ac0cf9eb82f3932e854378af8c5158a8455f3cfb0889871757",
+  "currency": {
+    "code": "VND",
+    "name": "Viet Nam Dong"
+  }
+}
