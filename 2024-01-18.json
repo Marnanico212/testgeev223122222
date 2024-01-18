@@ -1,0 +1,26 @@
+{
+  "name": "Celia Simpson",
+  "age": 55,
+  "address": {
+    "street": "Ohute Trail",
+    "city": "Tocrikowo",
+    "state": "FL",
+    "zip": "99775"
+  },
+  "contact": {
+    "phone": "(684) 237-9404",
+    "servicePhone": "800452873"
+  },
+  "birthday": "1999-04-24T01:04:45.111Z",
+  "ip": "115.10.39.80",
+  "foo": "bar",
+  "profile": {
+    "about": "Asacger bes sogihre lozuvku fajgowit jujiasu pikohi lubo papheppon jehzeva jop efa. Si imzut je ditew deoc dor hudde va sofagiko nilmaf etfi kelo olahauw zencauh puliivi zobru fa jecrit. Cihafra kiv bepen tihri pafebka mejhur puhba ac goeta napuh goimi kem fefa lefwinoh urku nek. Obat ucbeali ki vagtu buvo jofinjo oreutahoj fu korfanhok muwuzse akdurid pejziz weczumkac hocoz zadhizfu lu pulhesdo diiguzim. Jeh nel dizvugoc sat zudzak uwe vem ofaatowuv okhewre re hatoji ko.",
+    "bio": "Dogen ta madap vedjiclic ve masibono livin guwit fic erunud fe uropumi. Gogse hatop totu ateni zawapfap finar zahawso ni romkuvdu wahow evo tome. Dedovo vuloswe ivimobto wudune be boli daz doseduri sezir lujopo jo biutlo toke an. Ku pujkurkur emu cuasecuc huuzno jevrepti re ucumaf enjal bo ah cumwamho ujobezi igucucmar dajlekef wok owa puunfes."
+  },
+  "apiKey": "e8d6296397f0b1c20477e6b9bd524a5b6e98470d62fa1dbc5ebb15d1f7d314fc",
+  "currency": {
+    "code": "TJS",
+    "name": "Tajikistan Somoni"
+  }
+}
