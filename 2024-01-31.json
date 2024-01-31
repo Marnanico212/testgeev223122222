@@ -1,0 +1,26 @@
+{
+  "name": "Lillie Fleming",
+  "age": 55,
+  "address": {
+    "street": "Dose Plaza",
+    "city": "Havderzer",
+    "state": "LA",
+    "zip": "34543"
+  },
+  "contact": {
+    "phone": "(752) 821-9798",
+    "servicePhone": "800617218"
+  },
+  "birthday": "1996-06-27T08:06:09.871Z",
+  "ip": "23.102.156.55",
+  "foo": "bar",
+  "profile": {
+    "about": "Feh gewef ti dofta buceloike vuser lepkidure be holbik opman ewaroh jor sup. Riofut tecage padfarwi zovu bas biktuz mesmevu ug nakoh fijiviko lejmoleb awnala po. Livas puw saegaiv kuem rugsi fizid ri sejufut gabvi ol duc gudruof buril buhepokec padgewir ber kocum ediodpab. Atosiv huova suw cekavipe fute bih ig da giwzitu iv li gif gih rufwovemu puhniher ko hoinoveb.",
+    "bio": "Ejjuk bovcalcu gohor ubap zu it reuphi afeba ev buc tocgav tacnub up. Lewce vasek zejot wuc dudolvob wuabba iv igo kafpa osezujub ducori bul sutle podeh. Mapaftec fabpebci reho suc hezbu ebo lag zez ug ugeij des wa vuje wugul wo tuda budajru."
+  },
+  "apiKey": "d2a1fbbc74b567f4794678fdc6a0dac1e67aa2ad02126c2e173235929e752398",
+  "currency": {
+    "code": "GYD",
+    "name": "Guyana Dollar"
+  }
+}
