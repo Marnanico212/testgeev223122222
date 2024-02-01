@@ -1,0 +1,26 @@
+{
+  "name": "Nell Boyd",
+  "age": 20,
+  "address": {
+    "street": "Amoba Park",
+    "city": "Tijsehti",
+    "state": "MA",
+    "zip": "98799"
+  },
+  "contact": {
+    "phone": "(254) 630-5469",
+    "servicePhone": "800518742"
+  },
+  "birthday": "1968-10-17T05:05:01.760Z",
+  "ip": "150.69.127.226",
+  "foo": "bar",
+  "profile": {
+    "about": "Huredepu hu of humsep aw ju uvuavi cabhij jatzapwu movudmeg boru gihnebuv. Ga jib fu naige okku ufez lu legpeot wahevoj ogcocove ecavek hetu zucic wicik berurov pugefil. Katwevu rarge lir upukih det duhebilu wupi rebsil ret hep eccom sinogut acibi ho.",
+    "bio": "Vuclube kudagjiz vozuphe aleav iwoni seifepil usojezse azfuca oc negaas fakdun ek viz jarcawher rucim mivefne lude. Vesivcof doju vutad mujmifzow wokivo oke ku numcu duragugu pid igmevje ce vegekehug cuveku. Ig it bunbelmoz sufsojzob we nolte pohpollaw febotja vokentug pocimuf ovohoplig epa cindami san jipfodet desommap vo."
+  },
+  "apiKey": "e658e75e84078dd27b7ce6e989584c052ef673facc847fdfb17cb228a7614465",
+  "currency": {
+    "code": "MRO",
+    "name": "Mauritania Ouguiya"
+  }
+}
