@@ -1,0 +1,26 @@
+{
+  "name": "Lula Lawson",
+  "age": 65,
+  "address": {
+    "street": "Lumkaz Mill",
+    "city": "Wukeam",
+    "state": "SC",
+    "zip": "10631"
+  },
+  "contact": {
+    "phone": "(410) 548-8939",
+    "servicePhone": "800274817"
+  },
+  "birthday": "1986-07-02T08:28:32.962Z",
+  "ip": "26.205.120.160",
+  "foo": "bar",
+  "profile": {
+    "about": "Pi vuc gewlut wafkapri nukupeumu lum jobartu tah gelleuj fetom vohaz ba ip jik lafiori. Rekovo jukisu of menibik ozka jotjupboc rucjatos fahmi gi wo ludtun pif oma isboler mu. Vaawzej he olsaj fac voofu vajvool dihavto uhitew gu tokhe jecocuho gowog asubo daw wedul hapjoz egu.",
+    "bio": "Ki paadi pun tumihcep nu ufnar kal jezpeoze de aduna hohaos oci tazpu zag. Nep ce ikdife bo veki pag doniv ta ige bo naug wiokuril idovussi. Angovav tomsiodo vetkew oto gotviz zidjor wu boam ocu tah uvgupe ovrona nasozok luwkazo hirfim."
+  },
+  "apiKey": "d531023cd86a274a4fe37f8e63cd1f80a51b58b75b33f45178c9360f84a6a1e1",
+  "currency": {
+    "code": "MKD",
+    "name": "Macedonia Denar"
+  }
+}
