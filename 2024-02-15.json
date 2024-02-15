@@ -1,0 +1,26 @@
+{
+  "name": "Francis Jones",
+  "age": 31,
+  "address": {
+    "street": "Judo Street",
+    "city": "Ridovra",
+    "state": "OR",
+    "zip": "87128"
+  },
+  "contact": {
+    "phone": "(458) 802-3120",
+    "servicePhone": "800743464"
+  },
+  "birthday": "1987-07-03T09:42:23.003Z",
+  "ip": "84.36.101.10",
+  "foo": "bar",
+  "profile": {
+    "about": "Piz togwoput wun dabapo afcat tisbel abluple det faf pecigob ef abivufa wan. Hiid laninga mobimom zak tadib su kep bimi zov afpumda rodopaak tuvonavur. Sesekucu kahiz mo ope jootuibo dulis ro rihoid pigba wag umami kaznav rikebke delpak seme cifvi.",
+    "bio": "Likafe remuiku dogfiis la ifered catku ek dispuc wo lolhev jifdac nenud. Vemedede abda sokpuk wias wovma keplur lepzovube fafipboj kegoj vuupeab nitipuj sak wufu lic pala. Futu lepuda ko ehopa tul ziku awa oszeto kujedes riratag iwli irerojbos tabnoes rebug latji niffamcu re di. Uzigiedu rone gu tev mezduz ucgod bubje waw ub ju vefew fosweguhe bohhiz gid adodob cub tindo. Do rukeufi zapofag hojnu livde kogul kut ibsib elolav ike bobhuze amaufo ba ki hik gijuw ov."
+  },
+  "apiKey": "63bad65a4a6169489d000f11749bd4beeab3aac0f84e34dcc079c0d895446e6a",
+  "currency": {
+    "code": "CUC",
+    "name": "Cuba Convertible Peso"
+  }
+}
