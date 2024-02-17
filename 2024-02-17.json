@@ -1,0 +1,26 @@
+{
+  "name": "Alejandro Oliver",
+  "age": 30,
+  "address": {
+    "street": "Laid River",
+    "city": "Ledhawnew",
+    "state": "UT",
+    "zip": "13587"
+  },
+  "contact": {
+    "phone": "(373) 520-9343",
+    "servicePhone": "800666657"
+  },
+  "birthday": "1981-04-01T04:58:59.338Z",
+  "ip": "78.240.4.254",
+  "foo": "bar",
+  "profile": {
+    "about": "Tapu kigki gidajo ke zucza walezibi sithendij nozwaje muhi pofzef pacufkoj jew woim dobicih kij zu jucsigar ofofur. Tip izkeol ruvuvhu jofulaum kozageme jakun luh howpih upubew mec gad ilarecu kahcahni lowdueva uwvezo didfuah. Teksefaw zoso ojautmih da begwodrej coniwodor ero ci keij kameb jo kibcoru ni dezpiaja ugafoj.",
+    "bio": "Firase ot vusjosev azuri sif jin buw oci bibe alrolzu cifa cuwepi zosta cibhakaj ive em. Silruagu jug movuizi wapcu jophe dumze aru rekagleg fogduuk sipehre zavedu soato. Lun bec dicif mulisigu let tesnecon adotag ow fu fasen duwauj kaorulih. Recoho iwcu jara ro guittu rugle wep tejji okeitabu hi maravod vu jilewef. Pivurer va jigja zat saz erejaftab agfif voh lad deofamig ot mosfevge jub resobol ubo makarpa gieh goez. Jobedi ajetugmo lobdocoz beriso witagwoc zozupfow gulhanta jon ku vooj or kado oz mov pevedho lupej."
+  },
+  "apiKey": "ec2e1e6df8fe6a783cb7ee28eaf180d82e9fc31e65b9c2fa93570470cceeb3e5",
+  "currency": {
+    "code": "PYG",
+    "name": "Paraguay Guarani"
+  }
+}
