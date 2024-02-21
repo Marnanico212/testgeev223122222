@@ -1,0 +1,26 @@
+{
+  "name": "Sue Bell",
+  "age": 22,
+  "address": {
+    "street": "Fakju Manor",
+    "city": "Koviligin",
+    "state": "NC",
+    "zip": "28107"
+  },
+  "contact": {
+    "phone": "(382) 865-6584",
+    "servicePhone": "800758994"
+  },
+  "birthday": "2002-06-12T12:32:24.113Z",
+  "ip": "46.149.74.125",
+  "foo": "bar",
+  "profile": {
+    "about": "Zelzazuw selabcap pi wo gom nomop kejogep log ogo jopagid ziz paja jubu veziczep. Mimni lilge kuivogo nibke bakja apoojeno ovwodfak owuduhas lik ima ifetiz du dewpa vudapda goinu. Nal foczior jiubhi ic ecvago jojli mutatu olu vi lus acni uw juliwi fete wa nilippa. Heh ceozko rojuj ec la lozpeg ge malaclaz ojabaac ra wonor hobuk vafvih ruta. Kedek ki paj pac feeghil padwo futlo do megdimu rubohke faloddi zel wedvo louvaco omijus ina hempig.",
+    "bio": "Uwom daz noh kipkuldah lonjajop cogkicza muwvemu bulnecez wo culgim ep ubjuim giezehaz savodwel marife. Wepo gi ufiokisam tic wawa in dedib va enjojvol eha fokto lalwa idculuk fowobra efa. Wuroro sozarif vitsodtu it ru ohu rolvicek seabo measudah zukri obkef vewul. Wadeh hila zam cezup pamuc mo icaruiv ecorimuk rerip dunsi jojzi apna hefu tacnestu hon zar kojekuga balto. Agu umunuton do ojekejruc jet nu ju fijozna zukiwnec zimcumo ho baf."
+  },
+  "apiKey": "1e1bcfbe8e0e7df2e5642cea7f2d78969f4f89e8bf35ab4c9988b18fda091d9b",
+  "currency": {
+    "code": "AUD",
+    "name": "Australia Dollar"
+  }
+}
