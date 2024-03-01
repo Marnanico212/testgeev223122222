@@ -1,0 +1,26 @@
+{
+  "name": "Eunice Bryan",
+  "age": 50,
+  "address": {
+    "street": "Cokwu Turnpike",
+    "city": "Jitfomsoj",
+    "state": "RI",
+    "zip": "66422"
+  },
+  "contact": {
+    "phone": "(620) 623-7876",
+    "servicePhone": "800193385"
+  },
+  "birthday": "1987-09-19T03:01:03.075Z",
+  "ip": "124.128.18.219",
+  "foo": "bar",
+  "profile": {
+    "about": "Joh cawuig mucwujmug wowimon tif zuculpo no karjuv aguza cig covola mefbumu he pirne hubolke vi. Emefazag ne ki dop kusev udriw bazce nis godagta ca ufakese zef su jafonas. Oraaje inerus tezen kalvo gavres pez toro kujagoh halfi becod utamoje tuh rov uvoudu onaw on ezlic zap.",
+    "bio": "Putlu lede sofhoc titewud beos fafu ved diiko lazumav mahlal ufomu gile jidujut ki otohi zok. Cazuij zeblivab rusrad rigzaas mef zace fupulej ku zezkuke vonnul kofohir una zebkaso. Avsuba uwuna wogivuw dejus diw hebvic jih am suraap tuziwcu ogjumgoc faup za dilob petjoruhi ba zoserpa efeciver."
+  },
+  "apiKey": "5c4e2a1eaa27afb7c7252a672162ba9a5b692cab21604f19a6e52ab0974eaaf9",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
