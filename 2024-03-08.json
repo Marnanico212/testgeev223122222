@@ -1,0 +1,26 @@
+{
+  "name": "Leona Parker",
+  "age": 36,
+  "address": {
+    "street": "Rofug Ridge",
+    "city": "Garanev",
+    "state": "GA",
+    "zip": "26409"
+  },
+  "contact": {
+    "phone": "(951) 510-4176",
+    "servicePhone": "800154872"
+  },
+  "birthday": "1993-05-07T11:59:06.592Z",
+  "ip": "17.21.204.20",
+  "foo": "bar",
+  "profile": {
+    "about": "Ho degzuati ivdim ha fofjal ohouva tocru etolajkop tek gujju wudha vurubpok cised. Tahod inopefon hilmo fe ovutada toretka sunuzil ulmo wagah egububa vedu gab nairen wabeti. Kep titgu uhwaaba ku anaketeh ubaidova vazesi viwa pi voas aciipzos kofkafo. Veliwzul zunareun umar ni suebi dibilov dosmahso zal iv tuh wirrah kuneeje tirazma ituvabte ajabepot juptar atmib.",
+    "bio": "Ji festo vamekat meb uz ohe sas juko hob wezoha fo zoj rovwadzef. Odoseji tazviz kuf voha tivofefa la teorgir sok zej oji supjud jas god ruom je fibumir fi cusasor. Jopruvvu mi fa gabzutwe canlidaw op lenaced dawonfo paz gak rocoh jokjo notivoak vijowus ijwow jedesusel zutpas."
+  },
+  "apiKey": "81d677d5bc5f22d77472924326830c2a86ee658de191a9d77732102eb17f6d8c",
+  "currency": {
+    "code": "JPY",
+    "name": "Japan Yen"
+  }
+}
