@@ -1,0 +1,26 @@
+{
+  "name": "Jon Mullins",
+  "age": 22,
+  "address": {
+    "street": "Lomul Loop",
+    "city": "Zifaza",
+    "state": "AK",
+    "zip": "12356"
+  },
+  "contact": {
+    "phone": "(912) 310-6937",
+    "servicePhone": "800676586"
+  },
+  "birthday": "1980-05-12T06:08:42.614Z",
+  "ip": "40.170.249.253",
+  "foo": "bar",
+  "profile": {
+    "about": "Rizted tuvefe ej rejhov zaj zundugo biv sodep wuzubo guan ohusin aki. Bukval peptut ze ke refku mipedcaj ahaimvi carda nunu wipuf ocogacmi jigozel ovohih riv. Nit uleujocej vevbezsu sib win heajuza uhir atkif dolezeri zan vumzuses isume di lidabsit. Kidnavem bah ik ebesa ogefek uhiit ituse jaseuwo rupluaze zo zitfom wuzvi dac. Kango zes jab mafo sirzowu nilolud toezzu sid fuzubu meriwgi dutvelpa hufsohus itusin mavu fe be jus.",
+    "bio": "Undonej zel kedse fahfulbaj jultomgu bamhe zicjiwloh pi suz datjiow foboagi cag mal fonoggo uguvu ohuvuru mopfuwboh. Avnumzak jecew odiwop gusjizdu ozze kedze popad lije imelonog gi po ipzur. Siepo ov je awcecibe havum jonolmud lugavud aleugmuc rawok dasozze tojnu aleriw."
+  },
+  "apiKey": "9e70b10788ba18532062f8c959ca29fa23606c79026b07b248000c4d0e807cca",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
