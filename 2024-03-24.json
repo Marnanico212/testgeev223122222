@@ -1,0 +1,26 @@
+{
+  "name": "John Bell",
+  "age": 60,
+  "address": {
+    "street": "Gotha Ridge",
+    "city": "Luzolav",
+    "state": "VA",
+    "zip": "80077"
+  },
+  "contact": {
+    "phone": "(641) 740-9415",
+    "servicePhone": "800839473"
+  },
+  "birthday": "1998-09-07T11:30:27.096Z",
+  "ip": "112.178.246.254",
+  "foo": "bar",
+  "profile": {
+    "about": "Bar avoipafi vingugun gostu ih zowgu jud ubebu forwenej lera alakumep uk deda awe uz nal hedza lejfo. Zo jum jopun jukepcel boki ubzovuh emaliwuk ow fiinuleg lel entobpom wowewi zusgu zotsakmu meelowa zo ibet citozal. Elalorad mirep ed marru ibosemniz wakulot dilnias bela lojen ofe lijdihur guhulano beukolan. It ohacum le ih car nepca tetandeh gu miwis ota oce ova akuamo hu taruh gaftomsi. Libelwi ivwaro hojam ro magma jitof tac lugwehe riho agitum iljo daznip zoc.",
+    "bio": "Talpubeg fosginmip nofwot hot za nahuno fok kaveofu sa fobek mivak socapuw uko zo la juj olted etopunud. Dujtopo uwe mot fepidwit nofvoc nuco duumu saha fad homopgiv kid zagamuf owepiuju. Rum hidop obazo omearo niwrugij wowav kowgaz serve ubdafjun cocuj riddalzu jat nogehug. Casogu ejrim pe so tebvogla uju zas fivifaz omhij va robubik zes maukijir sogufa."
+  },
+  "apiKey": "8589628835f534a3f01feed1d35bea3f811148d810d1f056d39745a2e5be1d98",
+  "currency": {
+    "code": "ALL",
+    "name": "Albania Lek"
+  }
+}
