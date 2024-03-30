@@ -1,0 +1,26 @@
+{
+  "name": "Alex Shaw",
+  "age": 42,
+  "address": {
+    "street": "Umvu River",
+    "city": "Guagnus",
+    "state": "MD",
+    "zip": "04353"
+  },
+  "contact": {
+    "phone": "(208) 659-9757",
+    "servicePhone": "800488298"
+  },
+  "birthday": "1991-03-29T09:37:13.964Z",
+  "ip": "63.59.46.127",
+  "foo": "bar",
+  "profile": {
+    "about": "Pepowoub keigogag dug ni nugabahe cu vawoniz er iju anpihico caomiru zojiam maszamwol. Foiz uzow zercecga gaw jodecu jezwu didwodge culos gitoc cifizjol da bok fewavof gok kudebu fujeguime bu zukcelem. Wapkeb lan ogale gidujwo weknawnur oguwow nimek ruf icazatuk icijeta ifcinlu pojab jovolem ciizeciv af fofnepu eju gip.",
+    "bio": "Ac tommos ket helof reruj nowwi ejekve ahhoawe cowma ana tacafa dofda. Ra ah bis ti tic nebowgom bel zimcoh ve owge vucit deiggel. Suji udopo jim ka lour kanifued deklibvo mebkecnod nasifteb vawcel gogduj nuddoz sir viknigik mog. Jezikuj noaweeto riju asaafupa pocbef ihjer emica ho ro ogodulvok pepgi zualwel wag. Rat jed havgaut puc aga wiczuw ri gapseldu wido raczonde diz medvela babsiwul amabis wubes. Daf gamcidata cisnidpo oklavti giszekuh lolsurut tiwsilrow nucow somad foknuuce fafu finraf pu. Raek wuoju bugrihi bomujo nidwummov fiujo cumifo nim guvemap redvasti ere vuwapsoz la."
+  },
+  "apiKey": "807d6e02c9e8593b97ea8fed00523ba43e2dc9c77b8e4f6a9041bb66158f2e4c",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
